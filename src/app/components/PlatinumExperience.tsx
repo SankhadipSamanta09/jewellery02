@@ -12,15 +12,15 @@ interface ProductData {
 }
 
 const products: ProductData[] = [
-  { id: 1, src: "/pc1.png", name: "Platinum Classic Bangle", price: "₹4,50,335" },
-  { id: 2, src: "/pc2.png", name: "Platinum Rose Gold Bangle", price: "₹3,43,620" },
-  { id: 3, src: "/pc3.png", name: "Platinum Dual Tone Bangle", price: "₹3,80,811" },
-  { id: 4, src: "/pc4.png", name: "Platinum Link Bangle", price: "₹5,98,653" },
-  { id: 5, src: "/pc5.png", name: "Platinum Diamond Bangle", price: "₹6,25,000" },
-  { id: 6, src: "/pc6.png", name: "Platinum Mesh Bangle", price: "₹4,75,200" },
-  { id: 7, src: "/pc7.png", name: "Platinum Crown Bangle", price: "₹7,10,500" },
-  { id: 8, src: "/pc8.png", name: "Platinum Infinity Bangle", price: "₹5,45,800" },
-  { id: 9, src: "/pc9.png", name: "Platinum Royal Bangle", price: "₹8,25,000" },
+  { id: 1, src: "/Pc1.png", name: "Platinum Classic Bangle", price: "₹4,50,335" },
+  { id: 2, src: "/Pc2.png", name: "Platinum Rose Gold Bangle", price: "₹3,43,620" },
+  { id: 3, src: "/Pc3.png", name: "Platinum Dual Tone Bangle", price: "₹3,80,811" },
+  { id: 4, src: "/Pc4.png", name: "Platinum Link Bangle", price: "₹5,98,653" },
+  { id: 5, src: "/Pc5.png", name: "Platinum Diamond Bangle", price: "₹6,25,000" },
+  { id: 6, src: "/Pc6.png", name: "Platinum Mesh Bangle", price: "₹4,75,200" },
+  { id: 7, src: "/Pc7.png", name: "Platinum Crown Bangle", price: "₹7,10,500" },
+  { id: 8, src: "/Pc8.png", name: "Platinum Infinity Bangle", price: "₹5,45,800" },
+  { id: 9, src: "/Pc9.png", name: "Platinum Royal Bangle", price: "₹8,25,000" },
 ];
 
 const PlatinumExperience = () => {
